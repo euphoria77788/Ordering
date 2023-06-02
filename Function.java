@@ -1,5 +1,3 @@
-package practise;
-
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
@@ -326,7 +324,7 @@ public class Function implements ActionListener {
         tf3.setText(result); 
         
     }
-	
+
 	
 	
 	public static void main(String[] args) {
